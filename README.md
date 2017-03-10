@@ -31,7 +31,7 @@ merge(object, object2, object3);
 // }
 
 /* Array set */
-merge(object, object2, object3);
+mergeSet(object, object2, object3);
 // {
 //   "a":
 //   {
