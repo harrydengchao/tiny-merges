@@ -1,6 +1,6 @@
 {
   "name": "tiny-merges",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Object recursive merge",
   "main": "index.js",
   "scripts": {
