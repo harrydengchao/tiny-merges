@@ -9,7 +9,7 @@ module.exports = {
     path: path.resolve(__dirname, './lib'),
     publicPath: '/lib/',
     filename: '[name].min.js',
-    library: 'tiny-merges',
+    library: 'tinyMerges',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
